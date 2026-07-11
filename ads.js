@@ -126,6 +126,60 @@ const products = [
     url: "https://s.shopee.co.th/6pz0ObEJcc"
   },
   {
+    title: "หัวเชื้อแมวมิ้น แมวดำ/วีไอพี",
+    price: "฿590.00",
+    image: "a/22.png",
+    url: "https://s.shopee.co.th/7fY8UlAdvf"
+  },
+  {
+    title: "Eucerin pH5 VERY DRY SENSITIVE SKIN SHOWER OIL 400 ML ออยล์อาบน้ำผสมน้ำมัน สำหรับผิวแห้งมาก บ...",
+    price: "฿718.00",
+    image: "a/23.png",
+    url: "https://s.shopee.co.th/1BKelV0cp0"
+  },
+  {
+    title: "MizuMi UV Water Serum SPF50+ PA+++ + 40g No.1 Best Selling Sunscreen เซรั่มกันแดด บา...",
+    price: "฿800.00",
+    image: "a/24.png",
+    url: "https://s.shopee.co.th/LlXmDAwBk"
+  },
+  {
+    title: "Adidas รองเท้าวิ่ง Adizero Evo SL Shoes 2026 KI7354",
+    price: "฿4,382.00",
+    image: "a/25.png",
+    url: "https://s.shopee.co.th/9AMwIismjG"
+  },
+  {
+    title: "การ์นิเย่ ไมเซล่าฝาชมพู คลีนซิ่ง วอเตอร์ เซน ซิทีฟ สกิน 400มล GARNIER MICELLAR CLEANSING ...",
+    price: "฿529.00",
+    image: "a/26.png",
+    url: "https://s.shopee.co.th/2qSslYre9S"
+  },
+  {
+    title: "MizuMi Dry Rescue Intense Melt-In Cream 45m มอยส์เจอร์ไรเซอร์สำหรับผิวแห้ง ผิวแห้งมาก ผิวขาด",
+    price: "฿379.00",
+    image: "a/27.png",
+    url: "https://s.shopee.co.th/8AUP7xJlv8"
+  },
+  {
+    title: "นูโทรจีนา เจลอาบน้ำ เรนบาธ 473 มล. x2 Neutrogena Rainbath Shower and Bath Gel",
+    price: "฿690.00",
+    image: "a/28.png",
+    url: "https://s.shopee.co.th/8AUP86Fiwk"
+  },
+  {
+    title: "Bioderma Sensibio H2O ไมเซล่าคลีนซิ่งวอเตอร์ สำหรับ ผิวแพ้ ระคายง่าย 500 มล. ฝาธรรมดา 2 ขวด",
+    price: "฿1,589.00",
+    image: "a/29.png",
+    url: "https://s.shopee.co.th/6ffbLVtToV"
+  },
+  {
+    title: "นูโทรจีนา ออยบำรุงผิว บอดี้ ออยล์ ไลท์ เซซา มี่ 250 มล. x 2 Neutrogena Body Oil Light Sesame...",
+    price: "฿1,045.00",
+    image: "a/30.png",
+    url: "https://s.shopee.co.th/7AbrwYXVC5"
+  },
+  {
     title: "เซรั่มบำรุงผม",
     price: "฿259",
     image: "3.jpg",
